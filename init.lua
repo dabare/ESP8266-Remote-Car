@@ -1,2 +1,2 @@
-dofile("ap2.lc");
-dofile("car2.lc");
+dofile("ap2.lua");
+dofile("car2.lua");
